@@ -2,7 +2,7 @@
 
 # FreeCAD MCP
 
-This repository is a FreeCAD MCP that allows you to control FreeCAD from Claude Desktop.
+This repository is a ATRIUM MCP that allows you to control FreeCAD from Claude Desktop.
 
 ## Demo
 
